@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeebleyTrackingService</string>
+    <string name="permission_rationale">Permision rationable</string>
+</resources>
